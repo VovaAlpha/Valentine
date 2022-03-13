@@ -1,3 +1,3 @@
-# valentine
-a gift for your gitlfriend/boyfriend
+# Valentine
+A gift for your gitlfriend/boyfriend
 gist start UwU
